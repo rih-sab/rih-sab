@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rishub
+- 👀 I’m interested in Minecraft Plugins
+- 🌱 I’m currently learning Java
+- 📫 How to reach me Discord
